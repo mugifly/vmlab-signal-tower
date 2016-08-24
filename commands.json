@@ -1,0 +1,11 @@
+{
+    "setSignals": {
+        "description": "Set the signals",
+        "args": {
+            "red": "BOOLEAN DEFAULT false",
+            "green": "BOOLEAN DEFAULT false",
+            "yellow": "BOOLEAN DEFAULT false",
+            "blink": "BOOLEAN DEFAULT false"
+        }
+    }
+}

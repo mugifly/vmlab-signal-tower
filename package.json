@@ -1,0 +1,16 @@
+{
+  "name": "signaltower",
+  "version": "0.1.0",
+  "description": "A device daemon for signaltower",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": null,
+  "license": "ISC",
+  "dependencies": {
+    "denhub-device": "^0.5.0",
+    "node-wiringpi": "0.0.1"
+  }
+}
